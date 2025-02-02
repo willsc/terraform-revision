@@ -1,4 +1,4 @@
-## Requirements
+## Requirements for non cillium install.
 
 | Name | Version |
 |------|---------|
